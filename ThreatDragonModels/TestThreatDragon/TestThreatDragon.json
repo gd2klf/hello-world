@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "TestThreatDragon",
+    "owner": "Some Person",
+    "description": "Testing the Threat Dragon threat modelling app"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Digram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "Digram2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "Greg Lauer"
+  }
+}
